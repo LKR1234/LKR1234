@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO&fontSize=70&fontAlignY=50&animation=twinkling)
 
 <!--
 **LKR1234/LKR1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
