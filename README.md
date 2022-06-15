@@ -28,10 +28,8 @@ Skills: C/C++/AutoCad
 - 🌱 I’m currently learning study 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LKR1234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lkrying/)  
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LKR1234) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lkrying/)  
 
 
 <br><br><br>![iOS badge](https://img.shields.io/badge/-AutoCAD-green)   ![iOS badge](https://img.shields.io/badge/-Teaching1-yellowgreen)  ![iOS badge](https://img.shields.io/badge/-C%20%20%20-orange)   ![iOS badge](https://img.shields.io/badge/-C%2B%2B%20%20-red)
