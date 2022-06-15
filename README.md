@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+<br><br><br>![iOS badge](https://img.shields.io/badge/-AutoCAD-green)   ![iOS badge](https://img.shields.io/badge/-Teaching1-yellowgreen)  ![iOS badge](https://img.shields.io/badge/-C%20%20%20-orange)   ![iOS badge](https://img.shields.io/badge/-C%2B%2B%20%20-red)
+    
