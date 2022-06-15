@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋, my name is Lim ri ryang
+### Hi there 👋, my name is Lim Ki ryang
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
