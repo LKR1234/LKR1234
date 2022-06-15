@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LKR1234&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/LKR1234)  
-### *My Skills*
+### :clipboard:*My Skills*
 ----------------------------------------
 ![iOS badge](https://img.shields.io/badge/-AutoCAD-green)   ![iOS badge](https://img.shields.io/badge/-Teaching1-yellowgreen)  ![iOS badge](https://img.shields.io/badge/-C%20%20%20-orange)   ![iOS badge](https://img.shields.io/badge/-C%2B%2B%20%20-red)
     
